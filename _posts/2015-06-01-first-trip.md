@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2015.06.01
-categories: [general, demo, sample]
-tags: [demo, dbyll, dbtek, sample2]
+categories: [memory]
+tags: [trip]
 description: our first trip in YunNan.
 ---
 
