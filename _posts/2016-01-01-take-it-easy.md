@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2015.06.01
+title: hi! there
 categories: [memory]
 tags: [mood]
 description: 世事无常，不要生气。
