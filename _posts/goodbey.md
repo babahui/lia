@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Hello World!
+title: 拔刺
 categories: [memory]
 tags: [mood]
 comments: true
 ---
 
 
-### 我发誓要永远永远忘记她。
+一点一点的拔掉自己的刺。
