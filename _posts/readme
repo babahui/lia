@@ -5,3 +5,6 @@ _post 文件名需要格式如下：
 git add .
 git commit -m "git-commit-name"
 git push -u origin gh-pages
+
+插入图片的语法：
+![text](/path/to/img.jpg "Optional title")
